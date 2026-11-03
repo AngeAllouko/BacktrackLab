@@ -1,7 +1,7 @@
 # BacktrackLab - N-Queens
 
 A Tkinter desktop app that visualises how **backtracking** solves the N-Queens problem
-(MCA - Design & Analysis of Algorithms, Unit 3). See `VIVA_NOTES.md` for the viva cheat-sheet.
+(MCA - Design & Analysis of Algorithms, Unit 3).
 
 ## Run
     python main.py                                   # Python 3.8+, Tkinter included
